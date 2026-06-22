@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Delete_Success</name>
+   <tag></tag>
+   <elementGuidId>e1179894-69f4-4316-8952-bf08df03c85a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='oxd-toaster_1']/div/div/div[2]/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.oxd-text.oxd-text--p.oxd-text--toast-message.oxd-toast-content-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Successfully Deleted&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6227ec95-5dca-4d45-8835-d2f3aa0f6846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text</value>
+      <webElementGuid>a3fab43b-30d6-48d0-8068-abed73568a24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Successfully Deleted</value>
+      <webElementGuid>ce1c883d-00af-4fe9-910b-ba237601db91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oxd-toaster_1&quot;)/div[@class=&quot;oxd-toast oxd-toast--success oxd-toast-container--toast&quot;]/div[@class=&quot;oxd-toast-start&quot;]/div[@class=&quot;oxd-toast-content oxd-toast-content--success&quot;]/p[@class=&quot;oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text&quot;]</value>
+      <webElementGuid>09e0a6cf-ba97-4c7a-866b-7678e3a0f826</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='oxd-toaster_1']/div/div/div[2]/p[2]</value>
+      <webElementGuid>f7f30093-ee1d-4247-ae32-a8f6d06a3da0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/following::p[2]</value>
+      <webElementGuid>462c1493-7fce-4107-8f6c-474483f683c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::p[1]</value>
+      <webElementGuid>7d3e32ac-4aff-4749-9c66-0032af3c2220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Successfully Deleted']/parent::*</value>
+      <webElementGuid>7021b20f-952b-4117-b834-fef375ce0cd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p[2]</value>
+      <webElementGuid>c6b8716d-c038-46e3-b486-0e08762c01d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Successfully Deleted' or . = 'Successfully Deleted')]</value>
+      <webElementGuid>a5dac38d-1789-43bb-a6e6-9c232075a5b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

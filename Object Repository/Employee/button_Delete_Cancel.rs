@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>afac0a00-ff02-4d24-a305-d5761c7bb93c</webElementGuid>
+      <webElementGuid>dad69e4d-e49d-4362-bb2c-21f6939591ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1857dd50-1d20-4f51-91cc-0a6b96099a41</webElementGuid>
+      <webElementGuid>57d0c99d-995e-4fcc-91ef-011b86b79cb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-button oxd-button--medium oxd-button--ghost orangehrm-button-margin</value>
-      <webElementGuid>b91fdbf8-516f-4c98-9a30-1fadf2587aa7</webElementGuid>
+      <webElementGuid>e743b68c-813f-4514-b994-96c16bda970f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value> No, Cancel </value>
-      <webElementGuid>548a9d0b-cda1-4714-9bd2-f28e66fb4d9f</webElementGuid>
+      <webElementGuid>6f4b4023-f9dc-483c-9bc1-fb97e58b9fbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-overlay oxd-overlay--flex oxd-overlay--flex-centered&quot;]/div[@class=&quot;oxd-dialog-container-default&quot;]/div[@class=&quot;oxd-dialog-container-default--inner&quot;]/div[@class=&quot;oxd-sheet oxd-sheet--rounded oxd-sheet--white oxd-dialog-sheet oxd-dialog-sheet--shadow oxd-dialog-sheet--gutters orangehrm-dialog-popup&quot;]/div[@class=&quot;orangehrm-modal-footer&quot;]/button[@class=&quot;oxd-button oxd-button--medium oxd-button--ghost orangehrm-button-margin&quot;]</value>
-      <webElementGuid>73cdbf7a-f356-45d4-954b-0f0b7fd37ffc</webElementGuid>
+      <webElementGuid>c27b29cc-4326-4fc1-864f-3da767b6d030</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[110]</value>
-      <webElementGuid>207418bc-cb5d-4afc-b72b-e8da72c0c446</webElementGuid>
+      <webElementGuid>4943b293-0906-4b69-805f-ac18e7a4ac1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div[3]/div/div/div/div[3]/button</value>
-      <webElementGuid>3b5fe02c-7e38-42fd-89ab-0453feb04ef5</webElementGuid>
+      <webElementGuid>76a9a2a9-0cf2-4b7e-add4-6c86af04e7dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::button[1]</value>
-      <webElementGuid>c7256ef3-73f7-492c-b1f0-9855c95addf1</webElementGuid>
+      <webElementGuid>5cedc754-80cd-4216-a9ab-268867b35a1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/following::button[2]</value>
-      <webElementGuid>d8fb19db-81c3-4257-911f-13bcd1566d4f</webElementGuid>
+      <webElementGuid>4a88ff46-31f5-4214-a36c-b2f5f9c006fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='No, Cancel']/parent::*</value>
-      <webElementGuid>041cea15-b7d9-41c1-b482-30676b607910</webElementGuid>
+      <webElementGuid>7d6f7614-14ba-490a-804e-475236620718</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/div[3]/button</value>
-      <webElementGuid>a4261c55-e371-43cd-9074-da589d8d26ac</webElementGuid>
+      <webElementGuid>66ee9839-8d94-4fa1-b57b-ae0ecfd4fa01</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = ' No, Cancel ' or . = ' No, Cancel ')]</value>
-      <webElementGuid>e005dd9b-7243-4334-8117-ddb32a874389</webElementGuid>
+      <webElementGuid>6a2c3ccd-40ac-4a1f-9e28-2146e92153cf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

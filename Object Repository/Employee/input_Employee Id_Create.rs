@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5d8ffec9-df66-49c3-b151-9a9a2f28595a</webElementGuid>
+      <webElementGuid>d840ab34-f542-489f-a883-147b5fe14948</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-input oxd-input--active</value>
-      <webElementGuid>d00aa423-9be6-4efa-9cd7-4c6277172600</webElementGuid>
+      <webElementGuid>6328ed37-bb63-4ba4-ae94-9b4b7fa2e9a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;orangehrm-employee-container&quot;]/div[@class=&quot;orangehrm-employee-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-2 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/input[@class=&quot;oxd-input oxd-input--active&quot;]</value>
-      <webElementGuid>f99fa66a-1000-4657-935d-1de27f2da7ec</webElementGuid>
+      <webElementGuid>9131759f-cc98-4224-bb11-6e568337be2b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div[2]/div/div[2]/div/div/div[2]/input</value>
-      <webElementGuid>b4099f04-09ab-4668-b682-a18dbf338adf</webElementGuid>
+      <webElementGuid>b4e71ee6-2f07-4387-b922-0dec84a77a3d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div[2]/input</value>
-      <webElementGuid>b90e8646-f91b-40cf-8240-ced032b1c4bc</webElementGuid>
+      <webElementGuid>9864c48d-1ce6-447a-aaa1-47e3e5709f7d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

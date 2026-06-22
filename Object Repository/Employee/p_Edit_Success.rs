@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Edit_Success</name>
+   <tag></tag>
+   <elementGuidId>7b2e1b2c-1133-4355-9712-380fdfa37d16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='oxd-toaster_1']/div/div/div[2]/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.oxd-text.oxd-text--p.oxd-text--toast-message.oxd-toast-content-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Successfully Updated&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ca3969b2-49f1-4928-ac10-62d59b7da49b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text</value>
+      <webElementGuid>2f559577-5bd8-4132-8677-aa953ae566cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Successfully Updated</value>
+      <webElementGuid>90296576-34bd-42ab-a098-1564198ac12b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;oxd-toaster_1&quot;)/div[@class=&quot;oxd-toast oxd-toast--success oxd-toast-container--toast&quot;]/div[@class=&quot;oxd-toast-start&quot;]/div[@class=&quot;oxd-toast-content oxd-toast-content--success&quot;]/p[@class=&quot;oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text&quot;]</value>
+      <webElementGuid>dbbac9de-8e1d-4031-9d60-6fde2926a710</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='oxd-toaster_1']/div/div/div[2]/p[2]</value>
+      <webElementGuid>a0b71879-12db-4af9-bdc0-1d6a5bb06fdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/following::p[2]</value>
+      <webElementGuid>fd247813-6588-4f00-a381-13db6ad61629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::p[1]</value>
+      <webElementGuid>55fea2bc-329e-4f0d-b225-4b87ea06252b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Successfully Updated']/parent::*</value>
+      <webElementGuid>c762cd6a-9108-4ceb-935a-58a31c9b9acb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p[2]</value>
+      <webElementGuid>e70f412a-65ae-4e65-b64f-3782a6bed1db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Successfully Updated' or . = 'Successfully Updated')]</value>
+      <webElementGuid>4074b3c3-2248-49be-8439-302d55e47162</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

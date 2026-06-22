@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>3a3e3447-5349-4239-8bdd-e0cd68dc428d</webElementGuid>
+      <webElementGuid>7ff0a6c6-bc89-46ec-bdcf-4bf76b5e3d49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-icon-button oxd-table-cell-action-space</value>
-      <webElementGuid>49adfdd2-dc38-4f63-a00c-7ca5bb51ddfd</webElementGuid>
+      <webElementGuid>6a7c07e9-3c5b-425b-894d-b4898de9bd29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>65266dcf-db08-4229-8f54-db99de71503c</webElementGuid>
+      <webElementGuid>6da9aaf5-465a-46da-8217-c592057e09ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-paper-container&quot;]/div[@class=&quot;orangehrm-container&quot;]/div[@class=&quot;oxd-table orangehrm-employee-list&quot;]/div[@class=&quot;oxd-table-body&quot;]/div[@class=&quot;oxd-table-card&quot;]/div[@class=&quot;oxd-table-row oxd-table-row--with-border oxd-table-row--clickable&quot;]/div[@class=&quot;oxd-table-cell oxd-padding-cell&quot;]/div[@class=&quot;oxd-table-cell-actions&quot;]/button[@class=&quot;oxd-icon-button oxd-table-cell-action-space&quot;]</value>
-      <webElementGuid>5a9772df-4164-4ee3-9630-97111b81fd21</webElementGuid>
+      <webElementGuid>8617360e-7922-4ab8-bbfa-b432c3833fce</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[6]</value>
-      <webElementGuid>dd83dbb3-757f-42ad-822d-ab00dbca3503</webElementGuid>
+      <webElementGuid>0c3c508e-4323-4f61-ac7d-0e20d4171fd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div[3]/div/div[2]/div/div/div[9]/div/button</value>
-      <webElementGuid>5e4a0d3e-4565-4f6f-b335-211481e191ad</webElementGuid>
+      <webElementGuid>2f72ba3e-c99b-46d0-992c-a12773b87a6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prueba'])[1]/following::button[1]</value>
-      <webElementGuid>240b24bb-93b9-4b00-898e-b019c38a8f25</webElementGuid>
+      <webElementGuid>d537f633-24ac-459b-8a8e-83097aae4452</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prueba'])[2]/preceding::button[4]</value>
-      <webElementGuid>9cbc06d3-634d-4774-8b3d-80179d474cec</webElementGuid>
+      <webElementGuid>f230b07b-6130-4d03-a865-fe6b8a522636</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Prueba'])[3]/preceding::button[6]</value>
-      <webElementGuid>7afd794d-d787-4ab1-83f8-a96aa1cb3786</webElementGuid>
+      <webElementGuid>842a6752-2493-47d2-aab7-a3ea93ffdfb4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/div/button</value>
-      <webElementGuid>73353554-387e-4913-9b14-cc56c56528b1</webElementGuid>
+      <webElementGuid>40591fb4-77c0-499b-bc7f-a261d7b78531</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button']</value>
-      <webElementGuid>a7321fb3-8d22-495a-a1d3-a59aeb130586</webElementGuid>
+      <webElementGuid>ff8610d2-3487-44f0-a2bd-9575628a9574</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

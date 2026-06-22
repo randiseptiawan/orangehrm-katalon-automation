@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dropdown_Select_Job</name>
+   <tag></tag>
+   <elementGuidId>dd28090d-6619-4793-bdab-b563d8355697</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]/div/form/div/div/div[2]/div/div[2]/div/div/div[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.oxd-icon.bi-caret-down-fill.oxd-select-text--arrow</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/div[@class=&quot;orangehrm-edit-employee&quot;]/div[@class=&quot;orangehrm-edit-employee-content&quot;]/div[@class=&quot;orangehrm-horizontal-padding orangehrm-vertical-padding&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-3 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/div[@class=&quot;oxd-select-wrapper&quot;]/div[@class=&quot;oxd-select-text oxd-select-text--active&quot;]/div[@class=&quot;oxd-select-text--after&quot;]/i[@class=&quot;oxd-icon bi-caret-down-fill oxd-select-text--arrow&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.oxd-select-text--after > .oxd-icon >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>eae3a1e4-17a2-4478-91c2-6a9e5bb52a65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-icon bi-caret-down-fill oxd-select-text--arrow</value>
+      <webElementGuid>7e90dd09-1758-45dc-842b-e9d5f019ce13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/div[@class=&quot;orangehrm-edit-employee&quot;]/div[@class=&quot;orangehrm-edit-employee-content&quot;]/div[@class=&quot;orangehrm-horizontal-padding orangehrm-vertical-padding&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-3 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/div[@class=&quot;oxd-select-wrapper&quot;]/div[@class=&quot;oxd-select-text oxd-select-text--active&quot;]/div[@class=&quot;oxd-select-text--after&quot;]/i[@class=&quot;oxd-icon bi-caret-down-fill oxd-select-text--arrow&quot;]</value>
+      <webElementGuid>baca6794-9d3d-4073-9b2e-3d29e939b1ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]/div/form/div/div/div[2]/div/div[2]/div/div/div[2]/i</value>
+      <webElementGuid>66189283-2be4-4872-a6db-3924045ecdaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/i</value>
+      <webElementGuid>a844cdc9-da27-4409-a9e0-92655b4e187d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

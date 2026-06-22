@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Employee_Delete</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a91fce5b-09ee-4b5c-bcff-f9187b5c5754</testCaseGuid>
+</TestCaseEntity>

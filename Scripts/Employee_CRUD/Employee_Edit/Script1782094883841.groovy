@@ -17,79 +17,50 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-def employeeID = "REMP_" + new Random().nextInt(100000)
+WebUI.click(
+	findTestObject('Employee/button_Edit')
+)
 
-GlobalVariable.EmployeeID = employeeID
+WebUI.click(
+	findTestObject('Employee/a_Job')
+)
 
-/**WebUI.openBrowser('')
+WebUI.click(
+	findTestObject('Employee/Dropdown_Select_Job')
+)
 
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/')
+WebUI.click(
+	findTestObject('Employee/Option_Job_QA Engineer_Select')
+)
 
-WebUI.callTestCase(
-	findTestCase('Common/TC_Login_Action'),
-	[
-		username : 'Admin',
-		password : 'admin123'
-	]
-)**/
+WebUI.click(
+	findTestObject('Employee/button_Edit_Save')
+)
+
+WebUI.verifyElementPresent(
+	findTestObject('Employee/p_Edit_Success'),
+	10
+)
 
 WebUI.click(
 	findTestObject('Dashboard/a_PIM')
 )
 
-WebUI.click(
-	findTestObject('Employee/button_Add')
-)
-
 WebUI.setText(
-	findTestObject('Employee/input_Employee Full Name_firstName_Create'),
-	'Robin'
-)
-
-WebUI.setText(
-	findTestObject('Employee/input_Employee Full Name_lastName_Create'),
-	'Hood'
-)
-
-WebUI.sendKeys(
-    findTestObject('Employee/input_Employee Id_Create'),
-    Keys.chord(Keys.CONTROL, 'a')
-)
-
-WebUI.sendKeys(
-    findTestObject('Employee/input_Employee Id_Create'),
-    Keys.chord(Keys.DELETE)
-)
-
-WebUI.setText(
-	findTestObject('Employee/input_Employee Id_Create'),
-	employeeID
+	findTestObject('Employee/input_Employee Id_Search'),
+	GlobalVariable.EmployeeID
 )
 
 WebUI.click(
-	findTestObject('Employee/button_Add_Save')
-)
-	
-WebUI.verifyElementPresent(
-	findTestObject('Employee/div_Add_Success'),
-	10
+	findTestObject('Employee/button_Search')
 )
 
-WebUI.waitForPageLoad(1000)
-
-WebUI.verifyElementPresent(
-	findTestObject('Employee/h6_Personal Details'),
-	10
+WebUI.verifyTextPresent(
+	GlobalVariable.EmployeeID,
+	false
 )
 
-WebUI.verifyEqual(
-    WebUI.getText(
-        findTestObject('Employee/h6_First_Last Name')
-    ),
-    'Robin Hood'
+WebUI.verifyTextPresent(
+	'QA Engineer',
+	false
 )
-
-/**WebUI.closeBrowser()**/
-
-
-	
