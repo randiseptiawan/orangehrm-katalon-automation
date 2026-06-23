@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Add_Success</name>
+   <name>div_Info_No_Records_Found</name>
    <tag></tag>
-   <elementGuidId>1ca1452a-f271-4de4-99cb-c316f46054bb</elementGuidId>
+   <elementGuidId>8bfe3d7c-7341-41d3-9f12-28c8fb0607d7</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -11,14 +11,14 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.oxd-toast.oxd-toast--success.oxd-toast-container--toast</value>
+         <value>div.oxd-toast.oxd-toast--info.oxd-toast-container--toast</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:text=&quot;SuccessSuccessfully Saved×&quot;i</value>
+         <value>internal:text=&quot;InfoNo Records Found×&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e6d69071-31de-4a86-9df6-87106408c01e</webElementGuid>
+      <webElementGuid>2a33236a-5f14-41c6-9f10-419b572332c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>oxd-toast oxd-toast--success oxd-toast-container--toast</value>
-      <webElementGuid>9250185a-91c7-429e-ad9d-91daef49732b</webElementGuid>
+      <value>oxd-toast oxd-toast--info oxd-toast-container--toast</value>
+      <webElementGuid>3223ba7e-0c92-40eb-bf41-ceca8003421f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,23 +45,23 @@
       <name>aria-live</name>
       <type>Main</type>
       <value>assertive</value>
-      <webElementGuid>e03eab62-3489-4928-a1d3-0c71c5309744</webElementGuid>
+      <webElementGuid>b4ee93d7-d026-4a73-b2bf-2140fce37c31</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>SuccessSuccessfully Saved×</value>
-      <webElementGuid>c21c4711-317b-4d2c-8bf5-27c515042ac5</webElementGuid>
+      <value>InfoNo Records Found×</value>
+      <webElementGuid>0fcd9eaf-2499-4b6d-9e7b-66a9315698c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;oxd-toaster_1&quot;)/div[@class=&quot;oxd-toast oxd-toast--success oxd-toast-container--toast&quot;]</value>
-      <webElementGuid>580f159e-f96c-49d6-82b9-0ab6eae68ed6</webElementGuid>
+      <value>id(&quot;oxd-toaster_1&quot;)/div[@class=&quot;oxd-toast oxd-toast--info oxd-toast-container--toast&quot;]</value>
+      <webElementGuid>4853b500-e547-429d-b5bf-df1bf4c5a013</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='oxd-toaster_1']/div</value>
-      <webElementGuid>1c61f7b5-0b07-406e-91f7-31bcb3c60ad5</webElementGuid>
+      <webElementGuid>558a076d-116d-43a4-b888-5e25d2b878a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/following::div[2]</value>
-      <webElementGuid>60128f81-be16-4226-b2b3-09573d52d6ae</webElementGuid>
+      <webElementGuid>cae28b14-3879-4218-a59b-971b440df79d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,14 +85,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div</value>
-      <webElementGuid>6e7509bf-c6c3-4cc7-8af5-9b57be155fbd</webElementGuid>
+      <webElementGuid>59d24bb1-211c-49b4-a622-a38210d0952c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'SuccessSuccessfully Saved×' or . = 'SuccessSuccessfully Saved×')]</value>
-      <webElementGuid>65b6d2e3-127d-42ca-9364-a3ed2d94872b</webElementGuid>
+      <value>//div[(text() = 'InfoNo Records Found×' or . = 'InfoNo Records Found×')]</value>
+      <webElementGuid>b63155d9-5c21-4c66-a3f4-5ceb92aa4b07</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

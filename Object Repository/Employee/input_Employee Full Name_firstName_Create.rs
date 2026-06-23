@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>17b60f4a-8996-4e08-a29f-8512ab13fa9a</webElementGuid>
+      <webElementGuid>3bf453ef-42ff-4004-9bf5-e8d8f874b243</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-input oxd-input--active orangehrm-firstname</value>
-      <webElementGuid>559200a6-7595-4a20-9026-58e5caa9a3ed</webElementGuid>
+      <webElementGuid>d324fcab-00d4-43fe-9e7c-4674e3b0f133</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>firstName</value>
-      <webElementGuid>869b05dc-5a62-455a-a7e3-b5350b78f8e3</webElementGuid>
+      <webElementGuid>4eaef7a7-af4e-4b66-a4cb-f6c8599c479e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>First Name</value>
-      <webElementGuid>3d4da567-c3ed-4181-ad1d-bccba282866d</webElementGuid>
+      <webElementGuid>23f55a28-dd10-4039-992c-0d3acd462c83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;orangehrm-employee-container&quot;]/div[@class=&quot;orangehrm-employee-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-1 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-input-group&quot;]/div[@class=&quot;--name-grouped-field&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/input[@class=&quot;oxd-input oxd-input--active orangehrm-firstname&quot;]</value>
-      <webElementGuid>32494c0f-ade9-4ce3-8da6-3fd6952ea905</webElementGuid>
+      <webElementGuid>3beb9154-d0c6-402c-9657-2933086dd700</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='firstName']</value>
-      <webElementGuid>45cfcf15-ff96-4fc7-a9c8-597c614b34b5</webElementGuid>
+      <webElementGuid>20de1cad-8681-485f-9a6b-8ba8139378ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div[2]/div/div/div/div/div[2]/div/div[2]/input</value>
-      <webElementGuid>90bdaf2b-fbb5-4a59-9e23-132490f0fc1f</webElementGuid>
+      <webElementGuid>579c1353-65f8-41b1-90c3-c923d0421a73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/input</value>
-      <webElementGuid>66c457c6-8e46-4148-a8ff-6e24892bedd4</webElementGuid>
+      <webElementGuid>868609ae-ec06-4312-a453-4e98188a7afb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'firstName' and @placeholder = 'First Name']</value>
-      <webElementGuid>a4e813cc-0bf7-4116-96d9-6a16711c88b5</webElementGuid>
+      <webElementGuid>89905265-0847-4ca4-b2ea-4c90a2d5cb37</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

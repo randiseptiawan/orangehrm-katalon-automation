@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Employee_Add</name>
+   <name>TC_Employee_Add_Without_FirstName</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>38d41fbb-32cf-4ab9-b69b-791481b46c92</testCaseGuid>
+   <testCaseGuid>a38ae065-d834-489a-9701-ed27f35c51ba</testCaseGuid>
 </TestCaseEntity>

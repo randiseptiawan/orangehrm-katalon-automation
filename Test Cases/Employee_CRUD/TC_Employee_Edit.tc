@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Employee_Search</name>
+   <name>TC_Employee_Edit</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>7546758d-555f-4a13-b4a5-1708e1621734</testCaseGuid>
+   <testCaseGuid>b3fe9d98-b3cc-4497-81b2-bd94438557cb</testCaseGuid>
 </TestCaseEntity>

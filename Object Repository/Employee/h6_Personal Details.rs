@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h6</value>
-      <webElementGuid>aeb53273-4115-4e01-a6a1-a1d2037e542f</webElementGuid>
+      <webElementGuid>86eee452-1326-469d-9ee8-09d2b9b7fc12</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-text oxd-text--h6 orangehrm-main-title</value>
-      <webElementGuid>b282b7c2-9f71-41ff-9aa7-388770030586</webElementGuid>
+      <webElementGuid>88cc7ce8-92ca-4aeb-b0d3-d5dc96d849f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Personal Details</value>
-      <webElementGuid>411324d0-b7b0-4d31-96c4-d8d29ca2c54d</webElementGuid>
+      <webElementGuid>48a221bd-8a5f-44fa-9669-6010accf6152</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/div[@class=&quot;orangehrm-edit-employee&quot;]/div[@class=&quot;orangehrm-edit-employee-content&quot;]/div[@class=&quot;orangehrm-horizontal-padding orangehrm-vertical-padding&quot;]/h6[@class=&quot;oxd-text oxd-text--h6 orangehrm-main-title&quot;]</value>
-      <webElementGuid>4206889c-9cd4-4f1f-be35-3991b2bc2e9d</webElementGuid>
+      <webElementGuid>47d1c6ee-0982-4c50-8a91-d567a4fc25db</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]/div/h6</value>
-      <webElementGuid>8b82c929-ea6b-44c0-bd6e-c9cd74d37991</webElementGuid>
+      <webElementGuid>226b4d1c-7fb3-410c-b975-838c0cdc9503</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Memberships'])[1]/following::h6[1]</value>
-      <webElementGuid>0468a58e-8163-4e1d-856a-f0d37438ebff</webElementGuid>
+      <webElementGuid>62612b5b-c7ef-4704-92a1-b647a2f40f88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[1]/following::h6[1]</value>
-      <webElementGuid>a4f8f99a-c6c2-4297-b9ed-83eebf21d5e3</webElementGuid>
+      <webElementGuid>e7949e27-22a2-4117-a7c0-a98161290890</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Full Name'])[1]/preceding::h6[1]</value>
-      <webElementGuid>50f19c01-022b-470e-a7d2-0080ae2a90dd</webElementGuid>
+      <webElementGuid>37fc94de-a752-4501-80e1-1ab28b8dbb8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Id'])[1]/preceding::h6[1]</value>
-      <webElementGuid>d601dd76-5c99-4b18-859c-456d8d1ccb44</webElementGuid>
+      <webElementGuid>69f49160-66fd-44ba-a42e-b72c38a53013</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/h6</value>
-      <webElementGuid>b28ecd2d-bf5b-46ab-82b7-4b0d1eca4d70</webElementGuid>
+      <webElementGuid>a1a6a9bd-2245-4003-9e9d-a93d9e3476a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h6[(text() = 'Personal Details' or . = 'Personal Details')]</value>
-      <webElementGuid>e13f853c-2a9d-41de-a7ec-c0e902a24763</webElementGuid>
+      <webElementGuid>63d51993-c8cd-4672-a30d-95a2c746fa43</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

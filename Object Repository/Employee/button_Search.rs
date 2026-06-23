@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8ccf16df-ed39-4c21-aa34-2bf436d49ed2</webElementGuid>
+      <webElementGuid>9e3f2eff-ebb0-4ac9-b30b-d4212bab7e73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>e1e8b11b-9b33-4616-9c11-36e7d1ce251f</webElementGuid>
+      <webElementGuid>dedfca4e-d726-4468-af5a-4ef6fa25239e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space</value>
-      <webElementGuid>7f1d1f13-8297-4758-8a3c-8b33405548ee</webElementGuid>
+      <webElementGuid>e6348c24-59b5-4390-8a65-573f6ca6acb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Search </value>
-      <webElementGuid>7bb56171-795e-49c0-9af0-607ffa2ba193</webElementGuid>
+      <webElementGuid>876a4be2-8916-4b9a-80b6-dc0e8e12eb89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;oxd-table-filter&quot;]/div[@class=&quot;oxd-table-filter-area&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-actions&quot;]/button[@class=&quot;oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space&quot;]</value>
-      <webElementGuid>c253a654-e8b7-413a-a1a9-6dee0220cf96</webElementGuid>
+      <webElementGuid>07323133-598d-4dcf-a8c8-c8773d068dc4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>c913dc05-e611-435c-acb8-d66d767d0f6f</webElementGuid>
+      <webElementGuid>9d02f2d2-6551-40da-bc0e-c3d1b7502555</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div/div[2]/form/div[2]/button[2]</value>
-      <webElementGuid>ef8cf9d2-1c57-4cf5-b931-6e8ab227644b</webElementGuid>
+      <webElementGuid>21d6dbb2-4303-4e6b-bde8-22e9000b0616</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[3]/following::button[2]</value>
-      <webElementGuid>5a35e9ef-ae4f-4077-a754-23eea846a100</webElementGuid>
+      <webElementGuid>57d17835-c461-444b-ae39-321409ee88d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
-      <webElementGuid>59bd9f88-1a3e-42ba-b447-9a543d3139c6</webElementGuid>
+      <webElementGuid>4f83aad5-6c96-416b-95b4-abf59c1c1ebe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]</value>
-      <webElementGuid>93d62204-4559-400f-a672-70c192ab1303</webElementGuid>
+      <webElementGuid>d585a3da-e55e-4ed6-903a-c4ee969b42e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = ' Search ' or . = ' Search ')]</value>
-      <webElementGuid>f7688b50-b798-42bd-8cb6-cbee857cd904</webElementGuid>
+      <webElementGuid>1a5d2e95-857f-4e09-9a65-2885646a2e90</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

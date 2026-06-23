@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +28,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>103f2ee5-c624-4a89-9c5e-d57aee26f4ed</webElementGuid>
+      <webElementGuid>4757bc8d-cd24-47bf-98e3-2be71ee87784</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +36,7 @@
       <name>class</name>
       <type>Main</type>
       <value>orangehrm-tabs-item</value>
-      <webElementGuid>9552586f-841b-405c-8561-55d392496d79</webElementGuid>
+      <webElementGuid>b9eb1ec0-9dd9-4837-9f29-12faadb4e147</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +44,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/web/index.php/pim/viewJobDetails/empNumber/86</value>
-      <webElementGuid>d8c114f3-a455-4130-ac02-6119751d4baf</webElementGuid>
+      <webElementGuid>0cc47186-d0c5-4087-90a3-2a004e536225</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +52,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Job</value>
-      <webElementGuid>2ddd10b9-f9b1-4aa0-a865-e9930fe12503</webElementGuid>
+      <webElementGuid>5c806a5b-ae8e-4b1b-990f-fd5582e30d44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +60,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout orangehrm-upgrade-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/div[@class=&quot;orangehrm-edit-employee&quot;]/div[@class=&quot;orangehrm-edit-employee-navigation&quot;]/div[@class=&quot;orangehrm-tabs&quot;]/div[@class=&quot;orangehrm-tabs-wrapper&quot;]/a[@class=&quot;orangehrm-tabs-item&quot;]</value>
-      <webElementGuid>5a2b58ba-e4bb-46e3-b773-a71065d8c489</webElementGuid>
+      <webElementGuid>a6f687c7-f8bb-4f76-b548-8cd054fa6d2a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +68,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div/div[2]/div[6]/a</value>
-      <webElementGuid>dbe7405e-2516-412d-859b-69e9a4bacb72</webElementGuid>
+      <webElementGuid>8567ae34-c718-4982-9359-56bb49fdfd7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +76,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Job')]</value>
-      <webElementGuid>818e3f21-551f-4335-99e7-0f287034381e</webElementGuid>
+      <webElementGuid>2508cd91-f3c5-4641-bdd8-6d7afb1082bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +84,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Immigration'])[1]/following::a[1]</value>
-      <webElementGuid>3947544b-2d50-4047-9ec0-4afd2fa6ef4e</webElementGuid>
+      <webElementGuid>4802a105-b1ea-41cc-9b64-4d735dd13065</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +92,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dependents'])[1]/following::a[2]</value>
-      <webElementGuid>c2cc3890-b2fa-43df-a6f0-e3ea574b5494</webElementGuid>
+      <webElementGuid>7eca0fd7-19b6-475e-aab0-9dd1c7209201</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +100,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Salary'])[1]/preceding::a[1]</value>
-      <webElementGuid>31abfa94-cc37-4d91-bc50-b5fd0242532e</webElementGuid>
+      <webElementGuid>f1038549-343c-43db-8bfc-dc7fdaedb7d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +108,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Report-to'])[1]/preceding::a[2]</value>
-      <webElementGuid>676bbe52-b968-422c-89ab-d3611178e4e0</webElementGuid>
+      <webElementGuid>130d4c3a-a53a-4740-9d49-c975aa79d58f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +116,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Job']/parent::*</value>
-      <webElementGuid>e5a298d1-17de-47df-ba88-576a0258e9f9</webElementGuid>
+      <webElementGuid>5803727e-0322-47ce-ad4c-e58bfd2f5568</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +124,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/web/index.php/pim/viewJobDetails/empNumber/86')]</value>
-      <webElementGuid>aca0650d-0459-43e8-ad5c-e89d851b0459</webElementGuid>
+      <webElementGuid>4fdc78c4-c599-489d-b605-3a2775cdff8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +132,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/a</value>
-      <webElementGuid>30124b69-92d2-4448-b0fc-a7e5f8272d38</webElementGuid>
+      <webElementGuid>cc3c95c1-94d4-401e-ad2d-71220df0c856</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +140,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/web/index.php/pim/viewJobDetails/empNumber/86' and (text() = 'Job' or . = 'Job')]</value>
-      <webElementGuid>1bf908d4-9137-489a-8302-75f300d03a4f</webElementGuid>
+      <webElementGuid>79a3f9f4-a9d0-4cea-b0f0-25ff544ac4a4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

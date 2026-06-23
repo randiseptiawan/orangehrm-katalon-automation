@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>6227ec95-5dca-4d45-8835-d2f3aa0f6846</webElementGuid>
+      <webElementGuid>d246090b-e7a8-4488-a81f-513ce0fe69ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text</value>
-      <webElementGuid>a3fab43b-30d6-48d0-8068-abed73568a24</webElementGuid>
+      <webElementGuid>8afe1301-b258-441d-9c89-1e300228e018</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Successfully Deleted</value>
-      <webElementGuid>ce1c883d-00af-4fe9-910b-ba237601db91</webElementGuid>
+      <webElementGuid>bc97d863-bc21-43af-8d66-2eb10a0a2c89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;oxd-toaster_1&quot;)/div[@class=&quot;oxd-toast oxd-toast--success oxd-toast-container--toast&quot;]/div[@class=&quot;oxd-toast-start&quot;]/div[@class=&quot;oxd-toast-content oxd-toast-content--success&quot;]/p[@class=&quot;oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text&quot;]</value>
-      <webElementGuid>09e0a6cf-ba97-4c7a-866b-7678e3a0f826</webElementGuid>
+      <webElementGuid>c5139aa2-7ecc-418f-88ff-d2aa1d0cf90b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='oxd-toaster_1']/div/div/div[2]/p[2]</value>
-      <webElementGuid>f7f30093-ee1d-4247-ae32-a8f6d06a3da0</webElementGuid>
+      <webElementGuid>f9150f21-c559-4241-8b7b-ad1c034fba47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/following::p[2]</value>
-      <webElementGuid>462c1493-7fce-4107-8f6c-474483f683c5</webElementGuid>
+      <webElementGuid>1d2c7688-cfd6-41b4-9364-6ccd6ce0c0f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::p[1]</value>
-      <webElementGuid>7d3e32ac-4aff-4749-9c66-0032af3c2220</webElementGuid>
+      <webElementGuid>b0d350d0-9a7c-489b-a447-a7fcfc843d44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Successfully Deleted']/parent::*</value>
-      <webElementGuid>7021b20f-952b-4117-b834-fef375ce0cd7</webElementGuid>
+      <webElementGuid>5b583f84-dcca-4eee-8bb5-092226b17fc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/p[2]</value>
-      <webElementGuid>c6b8716d-c038-46e3-b486-0e08762c01d3</webElementGuid>
+      <webElementGuid>0c7da30a-bb1c-4488-9701-8120ba35c35f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Successfully Deleted' or . = 'Successfully Deleted')]</value>
-      <webElementGuid>a5dac38d-1789-43bb-a6e6-9c232075a5b9</webElementGuid>
+      <webElementGuid>3573b711-6940-4fca-8e58-0ade666ba974</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
